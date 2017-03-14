@@ -45,7 +45,7 @@ this command finds if there is a path from bank account N1 to bank account N2 an
 this command prints all cycles that bank account N is involved into
 - traceflow N l
 
-Destroy the graph
+this command prints all paths of depth l starting from bank account N
 - print
 
 prints the Directed Graph
