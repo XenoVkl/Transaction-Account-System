@@ -45,9 +45,6 @@ this command finds if there is a path from bank account N1 to bank account N2 an
 this command prints all cycles that bank account N is involved into
 - traceflow N l
 
-this command prints all the paths of depth l and also the weight(amount of money) of each edge
-- bye
-
 Destroy the graph
 - print
 
