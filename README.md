@@ -50,4 +50,4 @@ this command prints all paths of depth l starting from bank account N
 
 prints the Directed Graph
 
-**The program was developed in Eclipse
+**The program was developed using Eclipse
