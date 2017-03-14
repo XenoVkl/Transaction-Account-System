@@ -8,7 +8,7 @@ public class DirectedGraph {
 	//Methods
 	DirectedGraph(int m)
 	{
-		maxNumberOfBankAccounts = m; // NOTE : IF THE DATASET IS EXTREMELY LARGE(E.G >100.000 , RAISE THE MAX NUMBER OF ACCOUNTS AS WELL
+		maxNumberOfBankAccounts = m; 
 		BankAccounts = new Vertex[maxNumberOfBankAccounts]; //We'll have a maximum number of vertices(bank accounts) in the graph 
 	}
 	
